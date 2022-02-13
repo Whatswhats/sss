@@ -21,7 +21,7 @@
 // ==/UserScript==
 
 
-setInterval(function(){window.location.replace("https://stake.com/?currency=ltc&modal=vipReload");},60000*9)
+setInterval(function(){window.location.replace("https://stake.bet/?currency=ltc&modal=vipReload");},60000*9)
 setInterval(function(){document.getElementsByClassName("Button__StyledButton-sc-8bd3dp-0 fbjzSA")[0].click()},30000);/?currency=ltc&modal=vipReload
 // @match        https://stake.bet
 // @match        https://stake.bet/casino
@@ -29,5 +29,5 @@ setInterval(function(){document.getElementsByClassName("Button__StyledButton-sc-
 // ==/UserScript==
 
 
-setInterval(function(){window.location.replace("https://stake.com/?currency=ltc&modal=vipReload");},60000*9)
+setInterval(function(){window.location.replace("https://stake.bet/?currency=ltc&modal=vipReload");},60000*9)
 setInterval(function(){document.getElementsByClassName("Button__StyledButton-sc-8bd3dp-0 fbjzSA")[0].click()},30000);
