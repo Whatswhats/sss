@@ -13,10 +13,10 @@
 // @author       Dauersendung
 // @namespace    https://greasyfork.org/de/users/444902-dauersendung
 // @version      1.0
-// @match        https://stake.get/sports
-// @match        https://stake.com/?currency=ltc&modal=vipReload
-// @match        https://stake.com
-// @match        https://stake.com/casino
+// @match        https://stake.bet/sports
+// @match        https://stake.bet/?currency=ltc&modal=vipReload
+// @match        https://stake.bet
+// @match        https://stake.bet/casino
 // @grant        none
 // ==/UserScript==
 
